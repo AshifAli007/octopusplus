@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/02c24fd3-8a20-4c03-b28d-f4360c9fcc0b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/octopus-os/subscriptions/02c24fd3-8a20-4c03-b28d-f4360c9fcc0b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/octopus-new",
+    "appService.deploySubpath": "."
+}
